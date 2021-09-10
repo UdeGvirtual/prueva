@@ -34,7 +34,8 @@ header{
 }
 
 .logo{
-    height: 80px;
+width: 40%;
+     height: 80px;
     display: flex;
 
     align-items: center;
@@ -213,6 +214,10 @@ header{
 
 
 @media screen and (max-width: 800px){
+
+.logo{
+width: 80%;
+}
 
     body{
         overflow-x: hidden;

@@ -122,6 +122,14 @@ float: right;
 
 @media screen and (max-width: 1220px){
 
+.container_top_img {
+    width: 400px;
+    height: 200px;
+    overflow: hidden;
+    margin: 10px;
+    position: relative;
+}
+
 .table-fix{
 width: 98%;
 float: none;
@@ -180,7 +188,7 @@ margin: 2%;
 
 .top{
 
-width: 95%;
+width: 94%;
 text-align: justify;
 
 }
